@@ -1,0 +1,11 @@
+﻿  contractor.cpp
+c:\users\hoehler\documents\uni\cch\cch-5f48cea\cch\id_queue.h(41): warning C4267: "return": Konvertierung von "size_t" nach "unsigned int", Datenverlust möglich
+c:\users\hoehler\documents\uni\cch\cch-5f48cea\cch\CCHGraph.h(44): warning C4267: "Initialisierung": Konvertierung von "size_t" nach "unsigned int", Datenverlust möglich
+c:\users\hoehler\documents\uni\cch\cch-5f48cea\cch\CCHGraph.h(45): warning C4267: "Initialisierung": Konvertierung von "size_t" nach "unsigned int", Datenverlust möglich
+  Code wird generiert.
+  2 of 1042 functions ( 0.2%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    4 functions had inline decision re-evaluated but remain unchanged
+  Codegenerierung ist abgeschlossen.
+  CCH.vcxproj -> C:\Users\Hoehler\Documents\uni\cch\cch-5f48cea\x64\Release\CCH.exe
+  CCH.vcxproj -> C:\Users\Hoehler\Documents\uni\cch\cch-5f48cea\x64\Release\CCH.pdb (Full PDB)

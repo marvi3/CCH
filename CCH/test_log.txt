@@ -1,0 +1,179 @@
+==========================================================
+
+
+Path: /amd.home/algoDaten/praktikum/graph/karlsruhe/
+Order: /amd.home/algoDaten/praktikum/cch/karlsruhe/flowcutter_order
+Metric: travel_time
+Query Type: elimination_tree
+The contraction took 0.512292 seconds 
+the contracted graph has 845060 edges 
+the uncontracted graph has 302605 edges 
+
+The setting of the weights took 0.0327438 seconds 
+size before:845060
+size after:845060
+The customization took 0.218821 seconds 
+
+running tests:
+errors: 0 out of 1000
+1000 queries took 0.203214 seconds.
+This is 0.203214 miliseconds per query.
+Every query visited 430 nodes on average.
+   44532 edges on average.
+--------------------------------------
+
+
+Path: /amd.home/algoDaten/praktikum/graph/karlsruhe/
+Order: /amd.home/algoDaten/praktikum/cch/karlsruhe/flowcutter_order
+Metric: travel_time
+Query Type: basic
+The contraction took 0.515127 seconds 
+the contracted graph has 845060 edges 
+the uncontracted graph has 302605 edges 
+
+The setting of the weights took 0.0318348 seconds 
+size before:845060
+size after:845060
+The customization took 0.212057 seconds 
+
+running tests:
+errors: 0 out of 1000
+1000 queries took 0.406895 seconds.
+This is 0.406895 miliseconds per query.
+Every query visited 212 nodes on average.
+   6923 edges on average.
+--------------------------------------
+
+
+Path: /amd.home/algoDaten/praktikum/graph/karlsruhe/
+Order: /amd.home/algoDaten/praktikum/cch/karlsruhe/metis_order
+Metric: travel_time
+Query Type: elimination_tree
+The contraction took 0.655637 seconds 
+the contracted graph has 956564 edges 
+the uncontracted graph has 302605 edges 
+
+The setting of the weights took 0.0450817 seconds 
+size before:956564
+size after:956564
+The customization took 0.299915 seconds 
+
+running tests:
+errors: 0 out of 1000
+1000 queries took 0.367869 seconds.
+This is 0.367869 miliseconds per query.
+Every query visited 519 nodes on average.
+   65243 edges on average.
+--------------------------------------
+
+
+Path: /amd.home/algoDaten/praktikum/graph/karlsruhe/
+Order: /amd.home/algoDaten/praktikum/cch/karlsruhe/metis_order
+Metric: travel_time
+Query Type: basic
+The contraction took 0.641413 seconds 
+the contracted graph has 956564 edges 
+the uncontracted graph has 302605 edges 
+
+The setting of the weights took 0.0382753 seconds 
+size before:956564
+size after:956564
+The customization took 0.279433 seconds 
+
+running tests:
+errors: 0 out of 1000
+1000 queries took 0.45417 seconds.
+This is 0.45417 miliseconds per query.
+Every query visited 255 nodes on average.
+   10430 edges on average.
+--------------------------------------
+
+
+Path: /amd.home/algoDaten/praktikum/graph/karlsruhe/
+Order: /amd.home/algoDaten/praktikum/cch/karlsruhe/flowcutter_order
+Metric: geo_distance
+Query Type: elimination_tree
+The contraction took 0.524443 seconds 
+the contracted graph has 845060 edges 
+the uncontracted graph has 302605 edges 
+
+The setting of the weights took 0.0328324 seconds 
+size before:845060
+size after:845060
+The customization took 0.215634 seconds 
+
+running tests:
+errors: 0 out of 1000
+1000 queries took 0.202667 seconds.
+This is 0.202667 miliseconds per query.
+Every query visited 430 nodes on average.
+   44532 edges on average.
+--------------------------------------
+
+
+Path: /amd.home/algoDaten/praktikum/graph/karlsruhe/
+Order: /amd.home/algoDaten/praktikum/cch/karlsruhe/flowcutter_order
+Metric: geo_distance
+Query Type: basic
+The contraction took 0.524317 seconds 
+the contracted graph has 845060 edges 
+the uncontracted graph has 302605 edges 
+
+The setting of the weights took 0.0315667 seconds 
+size before:845060
+size after:845060
+The customization took 0.211473 seconds 
+
+running tests:
+errors: 0 out of 1000
+1000 queries took 0.415783 seconds.
+This is 0.415783 miliseconds per query.
+Every query visited 219 nodes on average.
+   7204 edges on average.
+--------------------------------------
+
+
+Path: /amd.home/algoDaten/praktikum/graph/karlsruhe/
+Order: /amd.home/algoDaten/praktikum/cch/karlsruhe/metis_order
+Metric: geo_distance
+Query Type: elimination_tree
+The contraction took 0.649451 seconds 
+the contracted graph has 956564 edges 
+the uncontracted graph has 302605 edges 
+
+The setting of the weights took 0.0381996 seconds 
+size before:956564
+size after:956564
+The customization took 0.278118 seconds 
+
+running tests:
+errors: 0 out of 1000
+1000 queries took 0.307873 seconds.
+This is 0.307873 miliseconds per query.
+Every query visited 519 nodes on average.
+   65243 edges on average.
+--------------------------------------
+
+
+Path: /amd.home/algoDaten/praktikum/graph/karlsruhe/
+Order: /amd.home/algoDaten/praktikum/cch/karlsruhe/metis_order
+Metric: geo_distance
+Query Type: basic
+The contraction took 0.643378 seconds 
+the contracted graph has 956564 edges 
+the uncontracted graph has 302605 edges 
+
+The setting of the weights took 0.0378174 seconds 
+size before:956564
+size after:956564
+The customization took 0.278234 seconds 
+
+running tests:
+errors: 0 out of 1000
+1000 queries took 0.449437 seconds.
+This is 0.449437 miliseconds per query.
+Every query visited 265 nodes on average.
+   10787 edges on average.
+--------------------------------------
+
+
